@@ -1,0 +1,2426 @@
+canonical_identifier: bkk:krp/KR6r0067/v1
+canonical_location: https://kanripo.org/bkk/KR6r0067/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 法華傳記
+  identifiers:
+    alt_id:
+    - T51n2068
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T51/T51n2068.xml
+    old_id: T51n2068
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 原
+  label: 原
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0067_000.yaml, hash: 'sha256:309ccf0e649451925525d67d4d42eab6c3d8363e37a8819a2828bd7133b951a5'}
+  - {seq: 1, filename: KR6r0067_001.yaml, hash: 'sha256:a557a20676bb0b544e0e8d8557d5dc303be73b41a075d811f778f75420f3e2ba'}
+  - {seq: 2, filename: KR6r0067_002.yaml, hash: 'sha256:65f6db8b7e0b5abd4e37abe6fdbd4026267aed9d250c472093150a4dd0197657'}
+  - {seq: 3, filename: KR6r0067_003.yaml, hash: 'sha256:9b463d28ef5441dc7cfdd3bc7b892c12eb48e8589b561e6027728ab24c29bf46'}
+  - {seq: 4, filename: KR6r0067_004.yaml, hash: 'sha256:f1f037fa13cea1ff4cae50f293aecdb35050f0431d7f3e8052e2f7739ac4d64a'}
+  - {seq: 5, filename: KR6r0067_005.yaml, hash: 'sha256:508aaed2e76dad9cd7155f84776212f28410a9dae9b99eb30d1e3acaa2987c8f'}
+  - {seq: 6, filename: KR6r0067_006.yaml, hash: 'sha256:20ac9381e7bf71e1b96efe36b93b84fe377fbe7338e4b7009d8ad4eaf710e12b'}
+  - {seq: 7, filename: KR6r0067_007.yaml, hash: 'sha256:dc7375ac7c0cdcae411e743de5ab703ed41be88aeebd62c7003def918d13bece'}
+  - {seq: 8, filename: KR6r0067_008.yaml, hash: 'sha256:95a0215fa021d8984df1089a494a425afa319609c69e244e9018826069f96882'}
+  - {seq: 9, filename: KR6r0067_009.yaml, hash: 'sha256:6ff40127f510c7c725fc50bead54cd4623b01b9b93d2d014cf903a541651272d'}
+  - {seq: 10, filename: KR6r0067_010.yaml, hash: 'sha256:c9cc059bf0f04f8b73fc00568c603d0d04130ce8a1847bdae9d84fe6ee46d40d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6r0067_001.markers.yaml, hash: 'sha256:693f6bf22ffef2c1cb8258ceb8e2b171403aa1ae2103e89f1374eb803b94e262'}
+  - {seq: 2, role: markers, filename: assets/KR6r0067_002.markers.yaml, hash: 'sha256:a2b45d53244f100603a90a403a19ffae4bb27df1623ccde3baed039090565d10'}
+  - {seq: 3, role: markers, filename: assets/KR6r0067_003.markers.yaml, hash: 'sha256:513317776768b61988200bfc3341bf2f9308b6f46bae192dbffd9a4a24657213'}
+  - {seq: 4, role: markers, filename: assets/KR6r0067_004.markers.yaml, hash: 'sha256:d642c6fd040627d6deeb2ff20b4994fa13db366982d7235e2505c3b3d895da2a'}
+  - {seq: 5, role: markers, filename: assets/KR6r0067_005.markers.yaml, hash: 'sha256:16a26f210fb58230925692e8d36695b7b54def245c8bfa70a941262139016979'}
+  - {seq: 6, role: markers, filename: assets/KR6r0067_006.markers.yaml, hash: 'sha256:f325431764f9d3d06b2cd84ce20efd319eb9e253547d744874920799b8ce91dc'}
+  - {seq: 7, role: markers, filename: assets/KR6r0067_007.markers.yaml, hash: 'sha256:2a88fcfcd25d7580a414a348d0cc20603bebfbb8e3b42d6e2ec2975f2269c032'}
+  - {seq: 8, role: markers, filename: assets/KR6r0067_008.markers.yaml, hash: 'sha256:ccd0b1986397c6694e24e2df654980a5511e96e97a7aff651e6b5057c502b1d6'}
+  - {seq: 9, role: markers, filename: assets/KR6r0067_009.markers.yaml, hash: 'sha256:9e645dc14222ad9169b53c2e7cd4e3915f36dfe43ea0f86e1200f6f476cb980d'}
+  - {seq: 10, role: markers, filename: assets/KR6r0067_010.markers.yaml, hash: 'sha256:84691ea8cbe0611d1ecfdf15fa1c21c810d3ce17759626fa16f1a45a5489e63a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0067_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6580
+  label: 法華傳記卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0067_T_001-mulu-1
+    span:
+    - body
+    - 555
+    - 555
+  label: 1 部類增減
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0067_T_001-mulu-2
+    span:
+    - body
+    - 1555
+    - 1555
+  label: 2 隱顯時異
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0067_T_001-mulu-3
+    span:
+    - body
+    - 2917
+    - 2917
+  label: 3 傳譯年代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0067_T_001-mulu-4
+    span:
+    - body
+    - 5496
+    - 5496
+  label: 4 支派別行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0067_T_001-mulu-5
+    span:
+    - body
+    - 6145
+    - 6145
+  label: 5 論釋不同
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5608
+  label: 法華經傳記卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 6 諸師序集
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-2
+    span:
+    - body
+    - 47
+    - 47
+  label: 1 法華宗要序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-3
+    span:
+    - body
+    - 744
+    - 744
+  label: 2 法華經後序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-4
+    span:
+    - body
+    - 1266
+    - 1266
+  label: 3 法華經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-5
+    span:
+    - body
+    - 1333
+    - 1333
+  label: 4 法華翻經後記
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-6
+    span:
+    - body
+    - 1724
+    - 1724
+  label: 5 添品法華序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-7
+    span:
+    - body
+    - 2136
+    - 2136
+  label: 6 無量義經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-8
+    span:
+    - body
+    - 3191
+    - 3191
+  label: 7 正法華經記
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-9
+    span:
+    - body
+    - 3344
+    - 3344
+  label: 7 講解感應
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-10
+    span:
+    - body
+    - 3344
+    - 3344
+  label: 之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-11
+    span:
+    - body
+    - 3399
+    - 3399
+  label: 1 晉長安釋僧叡
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-12
+    span:
+    - body
+    - 3784
+    - 3784
+  label: 2 晉京師龍光寺釋道生
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-13
+    span:
+    - body
+    - 3911
+    - 3911
+  label: 3 宋吳虎丘釋曇諦
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-14
+    span:
+    - body
+    - 4039
+    - 4039
+  label: 4 宋壽春名閻寺釋僧導
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-15
+    span:
+    - body
+    - 4167
+    - 4167
+  label: 5 齊京師中興寺釋僧印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-16
+    span:
+    - body
+    - 4298
+    - 4298
+  label: 6 梁揚都光宅寺釋法雲
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-17
+    span:
+    - body
+    - 4674
+    - 4674
+  label: 7 梁滿法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-18
+    span:
+    - body
+    - 4768
+    - 4768
+  label: 8 隋國師智者天台國清寺釋智顗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0067_T_002-mulu-19
+    span:
+    - body
+    - 5333
+    - 5333
+  label: 9 唐京師延興寺釋吉藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6223
+  label: 法華經傳記卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-1
+    span:
+    - body
+    - 56
+    - 56
+  label: 之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-2
+    span:
+    - body
+    - 56
+    - 56
+  label: 1 唐國清寺釋灌頂
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-3
+    span:
+    - body
+    - 294
+    - 294
+  label: 2 唐京城真寂寺釋慧如
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-4
+    span:
+    - body
+    - 671
+    - 671
+  label: 3 釋僧隆法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-5
+    span:
+    - body
+    - 948
+    - 948
+  label: 4 唐大慈恩寺釋窺基
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-6
+    span:
+    - body
+    - 1211
+    - 1211
+  label: 5 唐左溪釋玄朗
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-7
+    span:
+    - body
+    - 1435
+    - 1435
+  label: 6 唐釋慧明
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-8
+    span:
+    - body
+    - 1806
+    - 1806
+  label: 7 唐釋智因
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-9
+    span:
+    - body
+    - 1984
+    - 1984
+  label: 8 唐釋志實
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-10
+    span:
+    - body
+    - 2179
+    - 2179
+  label: 9 相州釋道昂
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-11
+    span:
+    - body
+    - 2263
+    - 2263
+  label: 10 江南釋志遠
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-12
+    span:
+    - body
+    - 2392
+    - 2392
+  label: 8 諷誦勝利
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-13
+    span:
+    - body
+    - 2392
+    - 2392
+  label: 之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-14
+    span:
+    - body
+    - 2455
+    - 2455
+  label: 1 陳南岳衡山釋慧思
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-15
+    span:
+    - body
+    - 2678
+    - 2678
+  label: 2 陳國師南岳大善
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-16
+    span:
+    - body
+    - 2734
+    - 2734
+  label: 3 隋天台山國清寺釋智越
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-17
+    span:
+    - body
+    - 3198
+    - 3198
+  label: 4 隋河東栖巖道場釋智通
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-18
+    span:
+    - body
+    - 3650
+    - 3650
+  label: 5 唐台州國清寺釋智晞
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-19
+    span:
+    - body
+    - 4672
+    - 4672
+  label: 6 唐天台山國清寺釋智璪
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-20
+    span:
+    - body
+    - 5508
+    - 5508
+  label: 7 唐雍州津梁寺釋法喜
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-21
+    span:
+    - body
+    - 5983
+    - 5983
+  label: 8 陳宣帝師江陵慧誠
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-22
+    span:
+    - body
+    - 6024
+    - 6024
+  label: 9 唐南雲峯慧勇
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-23
+    span:
+    - body
+    - 6060
+    - 6060
+  label: 10 隋國師南岳慧稠
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-24
+    span:
+    - body
+    - 6099
+    - 6099
+  label: 11 隋新羅緣光
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-25
+    span:
+    - body
+    - 6139
+    - 6139
+  label: 12 唐終南山悟真寺善義
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0067_T_003-mulu-26
+    span:
+    - body
+    - 6182
+    - 6182
+  label: 13 唐富陽玉泉寺弘景
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6395
+  label: 法華經傳記卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-2
+    span:
+    - body
+    - 156
+    - 156
+  label: 1 晉阿陰白馬寺釋曇邃
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-3
+    span:
+    - body
+    - 359
+    - 359
+  label: 2 晉山陰顯義寺竺法純
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-4
+    span:
+    - body
+    - 475
+    - 475
+  label: 3 晉蜀三賢寺釋僧生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-5
+    span:
+    - body
+    - 633
+    - 633
+  label: 4 宋剡法華臺釋法宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-6
+    span:
+    - body
+    - 794
+    - 794
+  label: 5 宋京師南㵎寺釋道冏
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-7
+    span:
+    - body
+    - 1116
+    - 1116
+  label: 6 宋廬山釋慧慶
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-8
+    span:
+    - body
+    - 1263
+    - 1263
+  label: 7 宋臨淄釋普明
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-9
+    span:
+    - body
+    - 1407
+    - 1407
+  label: 8 宋京師道場寺釋法莊
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-10
+    span:
+    - body
+    - 1521
+    - 1521
+  label: 9 宋京師東瓦官寺釋慧果
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-11
+    span:
+    - body
+    - 1677
+    - 1677
+  label: 10 齊京師高座寺釋慧進
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-12
+    span:
+    - body
+    - 1871
+    - 1871
+  label: 11 齊永興柏林寺釋弘明
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-13
+    span:
+    - body
+    - 2078
+    - 2078
+  label: 12 齊京師靈根寺釋慧豫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-14
+    span:
+    - body
+    - 2232
+    - 2232
+  label: 13 齊上定林釋超辯
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-15
+    span:
+    - body
+    - 2387
+    - 2387
+  label: 14 齊山陰天柱寺釋法慧
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-16
+    span:
+    - body
+    - 2502
+    - 2502
+  label: 15 齊京師後崗釋僧侯
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-17
+    span:
+    - body
+    - 2673
+    - 2673
+  label: 16 魏泰岳人頭山𮕣草寺釋志湛
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-18
+    span:
+    - body
+    - 2874
+    - 2874
+  label: 17 范陽五侯寺僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-19
+    span:
+    - body
+    - 2948
+    - 2948
+  label: 18 雍州僧法常
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-20
+    span:
+    - body
+    - 3030
+    - 3030
+  label: 19 齊并州誦經舌
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-21
+    span:
+    - body
+    - 3237
+    - 3237
+  label: 20 唐終南山藍谷悟真寺釋慧超
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-22
+    span:
+    - body
+    - 3689
+    - 3689
+  label: 21 百濟國達拏山寺釋慧顯
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-23
+    span:
+    - body
+    - 3874
+    - 3874
+  label: 22 唐驪山津梁寺釋善慧
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-24
+    span:
+    - body
+    - 4367
+    - 4367
+  label: 23 晉大原沙門釋慧達
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-25
+    span:
+    - body
+    - 4485
+    - 4485
+  label: 24 唐終南山悟真寺釋法誠
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-26
+    span:
+    - body
+    - 5028
+    - 5028
+  label: 25 唐京師大莊嚴寺釋慧銓
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-27
+    span:
+    - body
+    - 5413
+    - 5413
+  label: 26 宋黃龍沙彌曇無竭
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-28
+    span:
+    - body
+    - 5592
+    - 5592
+  label: 27 晉蜀石室山釋法緒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-29
+    span:
+    - body
+    - 5692
+    - 5692
+  label: 28 宋山陰法華山釋僧翼
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-30
+    span:
+    - body
+    - 5878
+    - 5878
+  label: 29 唐潤州攝山栖霞寺釋智聰
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0067_T_004-mulu-31
+    span:
+    - body
+    - 6211
+    - 6211
+  label: 30 隋京師靜法寺釋智嶷
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7057
+  label: 法華經傳記卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-2
+    span:
+    - body
+    - 128
+    - 128
+  label: 1 雍州醴泉沙門釋遺俗
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-3
+    span:
+    - body
+    - 338
+    - 338
+  label: 2 雍州福水陰史村呵誓
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-4
+    span:
+    - body
+    - 495
+    - 495
+  label: 3 黃州隨華寺僧玄秀
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-5
+    span:
+    - body
+    - 626
+    - 626
+  label: 4 唐益州福成寺僧道慧
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-6
+    span:
+    - body
+    - 783
+    - 783
+  label: 5 魏常山衡唐精舍釋道泰
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-7
+    span:
+    - body
+    - 967
+    - 967
+  label: 6 陳揚都釋普安
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-8
+    span:
+    - body
+    - 1138
+    - 1138
+  label: 7 唐潞州法住寺釋僧定
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-9
+    span:
+    - body
+    - 1418
+    - 1418
+  label: 8 隋岐州東山下村沙彌
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-10
+    span:
+    - body
+    - 1625
+    - 1625
+  label: 9 縫州陷泉寺釋僧徹
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-11
+    span:
+    - body
+    - 1728
+    - 1728
+  label: 10 唐并州釋僧衍
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-12
+    span:
+    - body
+    - 2057
+    - 2057
+  label: 11 中書令岑文
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-13
+    span:
+    - body
+    - 2202
+    - 2202
+  label: 12 國子祭酒肅璟
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-14
+    span:
+    - body
+    - 2617
+    - 2617
+  label: 13 臨邛韋仲珪
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-15
+    span:
+    - body
+    - 2866
+    - 2866
+  label: 14 唐金城瓦官寺釋慧獻
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-16
+    span:
+    - body
+    - 3050
+    - 3050
+  label: 15 都下眾造寺慧和
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-17
+    span:
+    - body
+    - 3151
+    - 3151
+  label: 16 司亢少常伯崔義起
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-18
+    span:
+    - body
+    - 3574
+    - 3574
+  label: 17 山陽蓋護
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-19
+    span:
+    - body
+    - 3663
+    - 3663
+  label: 18 秦州慕容文策
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-20
+    span:
+    - body
+    - 4516
+    - 4516
+  label: 19 宋法華臺沙彌
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-21
+    span:
+    - body
+    - 4881
+    - 4881
+  label: 20 天水隴城志通
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-22
+    span:
+    - body
+    - 5801
+    - 5801
+  label: 21 涼州寡婦
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-23
+    span:
+    - body
+    - 5948
+    - 5948
+  label: 22 隋并州高守節
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-24
+    span:
+    - body
+    - 6456
+    - 6456
+  label: 23 昭果寺釋明曜
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-25
+    span:
+    - body
+    - 6664
+    - 6664
+  label: 24 瓦官寺釋僧洪
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0067_T_005-mulu-26
+    span:
+    - body
+    - 6879
+    - 6879
+  label: 25 大原王珠
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 7368
+  label: 法華經傳記卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-2
+    span:
+    - body
+    - 123
+    - 123
+  label: 1 越州觀音道場道人
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-3
+    span:
+    - body
+    - 672
+    - 672
+  label: 2 河東薰雄
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-4
+    span:
+    - body
+    - 1124
+    - 1124
+  label: 3 唐溜州釋通慧
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-5
+    span:
+    - body
+    - 1353
+    - 1353
+  label: 4 隋開善寺沙彌
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-6
+    span:
+    - body
+    - 1619
+    - 1619
+  label: 5 沙呵羅國西耳福緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-7
+    span:
+    - body
+    - 1882
+    - 1882
+  label: 6 宋益陽彭子喬
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-8
+    span:
+    - body
+    - 2126
+    - 2126
+  label: 7 青州白苟寺釋慧勝
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-9
+    span:
+    - body
+    - 2196
+    - 2196
+  label: 8宣州尼法空
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-10
+    span:
+    - body
+    - 2503
+    - 2503
+  label: 9 代州總因寺釋妙蓮
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-11
+    span:
+    - body
+    - 2853
+    - 2853
+  label: 10 唐真寂寺釋慧生
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-12
+    span:
+    - body
+    - 3673
+    - 3673
+  label: 11 并州釋曇義
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-13
+    span:
+    - body
+    - 3820
+    - 3820
+  label: 12 齊州三總山釋清慧
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-14
+    span:
+    - body
+    - 4284
+    - 4284
+  label: 13 建德郡王穀
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-15
+    span:
+    - body
+    - 4347
+    - 4347
+  label: 14 長安大寺比丘尼妙法
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-16
+    span:
+    - body
+    - 4570
+    - 4570
+  label: 15 唐洛州虞林通
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-17
+    span:
+    - body
+    - 4787
+    - 4787
+  label: 16 左監門挍尉憑翊李山龍
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-18
+    span:
+    - body
+    - 5606
+    - 5606
+  label: 17 龜茲國沙門達磨跋陀
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-19
+    span:
+    - body
+    - 5856
+    - 5856
+  label: 18 金城釋僧智
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-20
+    span:
+    - body
+    - 5962
+    - 5962
+  label: 19 晉沙門釋慧達
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-21
+    span:
+    - body
+    - 6102
+    - 6102
+  label: 20 長安城寡女揚氏
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-22
+    span:
+    - body
+    - 6384
+    - 6384
+  label: 21 沙門釋法道
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-23
+    span:
+    - body
+    - 6465
+    - 6465
+  label: 22 隋相州北道僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-24
+    span:
+    - body
+    - 6714
+    - 6714
+  label: 23 唐西京勝業寺二僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0067_T_006-mulu-25
+    span:
+    - body
+    - 7112
+    - 7112
+  label: 24 晉竺長舒
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 6866
+  label: 法華經傳記卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 9 轉讀滅罪
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-2
+    span:
+    - body
+    - 84
+    - 84
+  label: 1 京師高表仁孫子
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-3
+    span:
+    - body
+    - 427
+    - 427
+  label: 2 蘇長安家妾
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-4
+    span:
+    - body
+    - 562
+    - 562
+  label: 3 隋魏州彥武
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-5
+    span:
+    - body
+    - 824
+    - 824
+  label: 4 彭城域人韓睦之
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-6
+    span:
+    - body
+    - 1126
+    - 1126
+  label: 5 隋鄜州寶室寺沙門淨藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-7
+    span:
+    - body
+    - 1312
+    - 1312
+  label: 6 梁蒙遜王
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-8
+    span:
+    - body
+    - 1454
+    - 1454
+  label: 7 隋豫州慧緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-9
+    span:
+    - body
+    - 1865
+    - 1865
+  label: 8 梁九江東林寺僧融
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-10
+    span:
+    - body
+    - 2054
+    - 2054
+  label: 9 天竺阿蘭若比丘
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-11
+    span:
+    - body
+    - 2226
+    - 2226
+  label: 10 天竺于闐國瞿摩帝寺沙彌
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-12
+    span:
+    - body
+    - 2407
+    - 2407
+  label: 11 天竺𤘽薩羅國摩訶衍提婆
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-13
+    span:
+    - body
+    - 2685
+    - 2685
+  label: 12 隋揚州嚴敬
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-14
+    span:
+    - body
+    - 2850
+    - 2850
+  label: 13 安居縣樣女
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-15
+    span:
+    - body
+    - 2938
+    - 2938
+  label: 14 大原小女
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-16
+    span:
+    - body
+    - 3014
+    - 3014
+  label: 15 潯陽尼妙空
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-17
+    span:
+    - body
+    - 3093
+    - 3093
+  label: 16 隋并州高守節家女
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-18
+    span:
+    - body
+    - 3187
+    - 3187
+  label: 10 書寫救苦
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-19
+    span:
+    - body
+    - 3187
+    - 3187
+  label: 之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-20
+    span:
+    - body
+    - 3265
+    - 3265
+  label: 1 秦姚興文皇帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-21
+    span:
+    - body
+    - 3578
+    - 3578
+  label: 2 天竺波羅奈國僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-22
+    span:
+    - body
+    - 3918
+    - 3918
+  label: 3 外國清信女
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-23
+    span:
+    - body
+    - 4091
+    - 4091
+  label: 4 竺曇遂同學僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-24
+    span:
+    - body
+    - 4343
+    - 4343
+  label: 5 齊青州道㑺
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-25
+    span:
+    - body
+    - 4659
+    - 4659
+  label: 6 唐濟州靈光寺沙彌
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-26
+    span:
+    - body
+    - 4872
+    - 4872
+  label: 7 越州結緣經
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-27
+    span:
+    - body
+    - 5175
+    - 5175
+  label: 8 宋釋法豐
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-28
+    span:
+    - body
+    - 5319
+    - 5319
+  label: 9 唐法海寺釋僧安
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-29
+    span:
+    - body
+    - 5382
+    - 5382
+  label: 10 唐定水寺釋智琰
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-30
+    span:
+    - body
+    - 5457
+    - 5457
+  label: 11 唐蒲州陷泉寺釋義徹
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-31
+    span:
+    - body
+    - 5562
+    - 5562
+  label: 12 唐綿州寡妾
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-32
+    span:
+    - body
+    - 5644
+    - 5644
+  label: 13 唐箕州司馬
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-33
+    span:
+    - body
+    - 5749
+    - 5749
+  label: 14 唐并州司馬楚宣宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-34
+    span:
+    - body
+    - 6019
+    - 6019
+  label: 15 唐陳氏
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0067_T_007-mulu-35
+    span:
+    - body
+    - 6542
+    - 6542
+  label: 16 唐溜州李健安
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 7200
+  label: 法華經傳記卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-2
+    span:
+    - body
+    - 89
+    - 89
+  label: 1 隋相州僧玄緒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-3
+    span:
+    - body
+    - 532
+    - 532
+  label: 2 宋瓦官寺釋惠道
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-4
+    span:
+    - body
+    - 776
+    - 776
+  label: 3 定州曇韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-5
+    span:
+    - body
+    - 1028
+    - 1028
+  label: 4 隆州令孤元軌
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-6
+    span:
+    - body
+    - 1254
+    - 1254
+  label: 5 蔣州嚴恭
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-7
+    span:
+    - body
+    - 1535
+    - 1535
+  label: 6 并州李遺龍
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-8
+    span:
+    - body
+    - 2095
+    - 2095
+  label: 7 唐梓州姚待
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-9
+    span:
+    - body
+    - 3260
+    - 3260
+  label: 8 揚州高郵縣李丘令
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-10
+    span:
+    - body
+    - 3770
+    - 3770
+  label: 9 唐河東練行尼
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-11
+    span:
+    - body
+    - 3993
+    - 3993
+  label: 10 揚州嚴恭
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-12
+    span:
+    - body
+    - 4652
+    - 4652
+  label: 11 滿州虞縣不信男
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-13
+    span:
+    - body
+    - 5012
+    - 5012
+  label: 12 隋大業中客僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-14
+    span:
+    - body
+    - 5468
+    - 5468
+  label: 13 絳州孤山西河道場僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-15
+    span:
+    - body
+    - 5915
+    - 5915
+  label: 14 北齊仕人
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-16
+    span:
+    - body
+    - 6260
+    - 6260
+  label: 15 定州釋修德
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-17
+    span:
+    - body
+    - 6595
+    - 6595
+  label: 16 齊太祖高帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-18
+    span:
+    - body
+    - 6851
+    - 6851
+  label: 17 并州清信女
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0067_T_008-mulu-19
+    span:
+    - body
+    - 6975
+    - 6975
+  label: 18 唐襄州神足寺慧眺
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 6733
+  label: 法華經傳記卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 11 聽聞利益
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-2
+    span:
+    - body
+    - 115
+    - 115
+  label: 1 佛在世光明女
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-3
+    span:
+    - body
+    - 321
+    - 321
+  label: 2 佛在世妙意天子
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-4
+    span:
+    - body
+    - 440
+    - 440
+  label: 3 迦葉佛末法商主
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-5
+    span:
+    - body
+    - 611
+    - 611
+  label: 4 王舍城旃陀羅子
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-6
+    span:
+    - body
+    - 1181
+    - 1181
+  label: 5 貞觀鴿兒
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-7
+    span:
+    - body
+    - 1372
+    - 1372
+  label: 6 長安縣蔚範良子
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-8
+    span:
+    - body
+    - 1601
+    - 1601
+  label: 7 外國得通沙彌
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-9
+    span:
+    - body
+    - 1946
+    - 1946
+  label: 8 廣州法譽
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-10
+    span:
+    - body
+    - 2260
+    - 2260
+  label: 9 毒蛇生天
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-11
+    span:
+    - body
+    - 2634
+    - 2634
+  label: 10 舍衛城波斯匿伽羅王
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-12
+    span:
+    - body
+    - 3393
+    - 3393
+  label: 11 潯陽湖海女
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-13
+    span:
+    - body
+    - 3885
+    - 3885
+  label: 12 雍州醴泉縣沙彌
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-14
+    span:
+    - body
+    - 4039
+    - 4039
+  label: 13 南陽僧法朗猴犬
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-15
+    span:
+    - body
+    - 4443
+    - 4443
+  label: 14 魏常山衡唐精舍蝙蝠
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-16
+    span:
+    - body
+    - 4568
+    - 4568
+  label: 15 隋吳郡虎丘山獼猴
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-17
+    span:
+    - body
+    - 4733
+    - 4733
+  label: 16 月支蘇摩耶菩薩所見餓鬼
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-18
+    span:
+    - body
+    - 5355
+    - 5355
+  label: 17 潯陽處女
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-19
+    span:
+    - body
+    - 5556
+    - 5556
+  label: 18 西域毘末羅密多
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-20
+    span:
+    - body
+    - 5924
+    - 5924
+  label: 19 尼智通
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-21
+    span:
+    - body
+    - 6060
+    - 6060
+  label: 20 沙彌雲藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-22
+    span:
+    - body
+    - 6157
+    - 6157
+  label: 21 慈門寺僧孝慈
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0067_T_009-mulu-23
+    span:
+    - body
+    - 6519
+    - 6519
+  label: 22 唐襄州優婆塞後妻
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 5571
+  label: 法華經傳記卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 12 依正供養
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-mulu-2
+    span:
+    - body
+    - 86
+    - 86
+  label: 1 宋臨川招提寺釋慧紹
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-mulu-3
+    span:
+    - body
+    - 338
+    - 338
+  label: 2 宋京師竹林寺釋慧益
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-mulu-4
+    span:
+    - body
+    - 816
+    - 816
+  label: 3 齊隴西釋法光
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-mulu-5
+    span:
+    - body
+    - 936
+    - 936
+  label: 4 隋九江廬山沙門釋大志
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-mulu-6
+    span:
+    - body
+    - 1364
+    - 1364
+  label: 5 唐終南豹林谷釋會通
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-mulu-7
+    span:
+    - body
+    - 1503
+    - 1503
+  label: 6 荊州比丘尼
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-mulu-8
+    span:
+    - body
+    - 1683
+    - 1683
+  label: 7 并州城西書生
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-mulu-9
+    span:
+    - body
+    - 1752
+    - 1752
+  label: 8 宋廬山招提寺釋僧瑜
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-mulu-10
+    span:
+    - body
+    - 2122
+    - 2122
+  label: 9 十種供養記
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-mulu-11
+    span:
+    - body
+    - 3142
+    - 3142
+  label: 10 滅度受持供養經卷者彌勒出世時得益
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-mulu-12
+    span:
+    - body
+    - 3479
+    - 3479
+  label: 11 外國妙華天女
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-mulu-13
+    span:
+    - body
+    - 3714
+    - 3714
+  label: 12 忉利天寶瓔天子
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-mulu-14
+    span:
+    - body
+    - 3911
+    - 3911
+  label: 13 長安縣老女
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-mulu-15
+    span:
+    - body
+    - 4163
+    - 4163
+  label: 14 江寧縣優婆塞
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-mulu-16
+    span:
+    - body
+    - 4540
+    - 4540
+  label: 15 隋天台山瀑布寺釋僧達
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-mulu-17
+    span:
+    - body
+    - 4683
+    - 4683
+  label: 16 法供養勝
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0067_T_010-mulu-18
+    span:
+    - body
+    - 5181
+    - 5181
+  label: 17 無行比丘
+  type: mulu
+  level: 1
+hash: sha256:57b44b3ef10504519f91f875b92438e996f2ce39e4dfa9a4663f7840d9b8cc6f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
